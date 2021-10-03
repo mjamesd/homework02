@@ -52,6 +52,9 @@ header {
 
 .card-body {
   min-height: 100px;
+  -webkit-user-select: all;
+  -moz-user-select: all;
+  user-select: all;
 }
 
 .card-footer {
